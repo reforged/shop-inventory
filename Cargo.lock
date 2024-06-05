@@ -1521,6 +1521,7 @@ dependencies = [
  "actix-web",
  "chrono",
  "dotenv",
+ "futures-lite 2.3.0",
  "lapin",
  "serde",
  "serde_json",
